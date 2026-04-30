@@ -1,1 +1,136 @@
-https://raw.githubusercontent.com/Itamar-Lino/lista/refs/heads/main/filmes01
+{
+  "streams": [
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E01 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 0,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E02 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 1,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E03 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 2,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E04 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 3,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E05 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 4,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E06 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 5,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E07 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 6,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E08 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 7,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E09 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 8,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E10 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 9,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E11 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 10,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S01E12 · Dual Áudio · 2.0",
+      "infoHash": "2f345aceabe322c9fea6435793b1d9b6001509e8",
+      "fileIdx": 11,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    }
+  ]
+}

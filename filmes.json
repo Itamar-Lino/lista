@@ -1,16 +1,1 @@
-{
-  "streams": [
-    {
-      "name": "1080p WEB-DL",
-      "title": "Avatar: Fogo e Cinzas (2025)",
-      "infoHash": "",
-      "fileIdx": 0,
-      "tmdbId": 83533,
-      "imdbId": "",
-      "sources": [
-        "tracker:udp://tracker.openbittorrent.com:80/announce",
-        "tracker:udp://tracker.opentrackr.org:1337/announce"
-      ]
-    }
-  ]
-}
+https://raw.githubusercontent.com/Itamar-Lino/lista/refs/heads/main/filmes01

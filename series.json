@@ -131,6 +131,17 @@
         "tracker:udp://tracker.openbittorrent.com:80/announce",
         "tracker:udp://tracker.opentrackr.org:1337/announce"
       ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Dan Da Dan S02E01 · Dual Áudio · 2.0",
+      "infoHash": "493a36bd0a49479f3d4c3fccbf5ac464fe170f81",
+      "fileIdx": 0,
+      "imdbId": "tt30217403",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
     }
   ]
 }

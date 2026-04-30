@@ -1,1 +1,28 @@
-https://raw.githubusercontent.com/Itamar-Lino/lista/refs/heads/main/filmes01
+{
+  "streams": [
+    {
+      "name": "1080p WEB-DL",
+      "title": "Eles Vão Te Matar (2026) · Dual Áudio · 5.1",
+      "infoHash": "c0b169a1e28f5a0268df90c78a38e15bc1015437",
+      "fileIdx": 0,
+      "tmdbId": 1292695,
+      "imdbId": "tt31728330",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL",
+      "title": "Avatar: Fogo e Cinzas (2025) · Dual Áudio · 8.1",
+      "infoHash": "cf6a85d20c9ec7733911a9b554371a0a34da314d",
+      "fileIdx": 0,
+      "tmdbId": 83533,
+      "imdbId": "tt1757678",
+      "sources": [
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce"
+      ]
+    }
+  ]
+}

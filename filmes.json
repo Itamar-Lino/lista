@@ -2,11 +2,11 @@
   "streams": [
     {
       "name": "1080p WEB-DL",
-      "title": "Eles Vão Te Matar (2026) · Dual Áudio · 5.1",
-      "infoHash": "c0b169a1e28f5a0268df90c78a38e15bc1015437",
+      "title": "Missão Refúgio (2026) · Dual Áudio · 5.1",
+      "infoHash": "b32df0aad1940cb47f30d7e4943cdb6a508df8ac",
       "fileIdx": 0,
-      "tmdbId": 1292695,
-      "imdbId": "tt31728330",
+      "tmdbId": 1290821,
+      "imdbId": "tt32357218",
       "sources": [
         "tracker:udp://tracker.openbittorrent.com:80/announce",
         "tracker:udp://tracker.opentrackr.org:1337/announce"
@@ -14,8 +14,8 @@
     },
     {
       "name": "1080p WEB-DL",
-      "title": "Avatar: Fogo e Cinzas (2025) · Dual Áudio · 8.1",
-      "infoHash": "cf6a85d20c9ec7733911a9b554371a0a34da314d",
+      "title": "Avatar: Fogo e Cinzas (2025) · Dual Áudio · 5.1",
+      "infoHash": "btih:cf6a85d20c9ec7733911a9b554371a0a34da314d",
       "fileIdx": 0,
       "tmdbId": 83533,
       "imdbId": "tt1757678",
@@ -24,13 +24,13 @@
         "tracker:udp://tracker.opentrackr.org:1337/announce"
       ]
     },
-     {
+    {
       "name": "1080p WEB-DL",
-      "title": "Missão Refúgio (2026) · Dual Áudio · 5.1",
-      "infoHash": "b32df0aad1940cb47f30d7e4943cdb6a508df8ac",
+      "title": "Dragon Ball Super: Super Hero (2022) · Dual Áudio · 5.1",
+      "infoHash": "btih:af08bc670f601315369646d1a0a841bbb5444fb3",
       "fileIdx": 0,
-      "tmdbId": ,
-      "imdbId": "tt32357218",
+      "tmdbId": 610150,
+      "imdbId": "tt14614892",
       "sources": [
         "tracker:udp://tracker.openbittorrent.com:80/announce",
         "tracker:udp://tracker.opentrackr.org:1337/announce"
@@ -38,4 +38,3 @@
     }
   ]
 }
-

@@ -11,30 +11,6 @@
         "tracker:udp://tracker.openbittorrent.com:80/announce",
         "tracker:udp://tracker.opentrackr.org:1337/announce"
       ]
-    },
-    {
-      "name": "🇧🇷 1080p WEB-DL",
-      "title": "Avatar: Fogo e Cinzas (2025) · Dual Áudio · 5.1",
-      "infoHash": "btih:cf6a85d20c9ec7733911a9b554371a0a34da314d",
-      "fileIdx": 0,
-      "tmdbId": 83533,
-      "imdbId": "tt1757678",
-      "sources": [
-        "tracker:udp://tracker.openbittorrent.com:80/announce",
-        "tracker:udp://tracker.opentrackr.org:1337/announce"
-      ]
-    },
-    {
-      "name": "🇧🇷 1080p WEB-DL",
-      "title": "Dragon Ball Super: Super Hero (2022) · Dual Áudio · 5.1",
-      "infoHash": "btih:af08bc670f601315369646d1a0a841bbb5444fb3",
-      "fileIdx": 0,
-      "tmdbId": 610150,
-      "imdbId": "tt14614892",
-      "sources": [
-        "tracker:udp://tracker.openbittorrent.com:80/announce",
-        "tracker:udp://tracker.opentrackr.org:1337/announce"
-      ]
     }
   ]
 }

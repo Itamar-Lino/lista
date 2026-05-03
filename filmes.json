@@ -56,6 +56,25 @@
         "tracker:https://tracker.gbitt.info/announce",
         "tracker:udp://tracker.moeking.me:6969/announce"
       ]
+    },
+    {
+      "name": "1080p WEB-DL 🇧🇷",
+      "title": "A Pequena Amélie (2025) · Dual Áudio · 5.1",
+      "infoHash": "bfa4e9350c80fe6bd213f71c5d06c608d4bc43e8",
+      "fileIdx": 0,
+      "imdbId": "tt29313285",
+      "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
+      ]
     }
   ]
 }

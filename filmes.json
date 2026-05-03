@@ -7,8 +7,16 @@
       "fileIdx": 0,
       "imdbId": "tt32357218",
       "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
         "tracker:udp://tracker.openbittorrent.com:80/announce",
-        "tracker:udp://tracker.opentrackr.org:1337/announce"
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
       ]
     },
     {
@@ -18,8 +26,16 @@
       "fileIdx": 0,
       "imdbId": "tt1757678",
       "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
         "tracker:udp://tracker.openbittorrent.com:80/announce",
-        "tracker:udp://tracker.opentrackr.org:1337/announce"
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
       ]
     },
     {
@@ -29,8 +45,16 @@
       "fileIdx": 0,
       "imdbId": "tt14614892",
       "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
         "tracker:udp://tracker.openbittorrent.com:80/announce",
-        "tracker:udp://tracker.opentrackr.org:1337/announce"
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
       ]
     }
   ]

@@ -1367,6 +1367,63 @@
         "tracker:https://tracker.gbitt.info/announce",
         "tracker:udp://tracker.moeking.me:6969/announce"
       ]
+    },
+    {
+      "name": "1080p WEB-DL 🇧🇷",
+      "title": "The Boys S02E01 · Uma Viagem e Tanto · Dual Áudio",
+      "infoHash": "2e8b99929f959eefd22ca68efce236140c8c46803a6969%2fannounce",
+      "fileIdx": 0,
+      "imdbId": "tt1190634",
+      "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL 🇧🇷",
+      "title": "The Boys S02E02 · Armando a Arapuca · Dual Áudio",
+      "infoHash": "2e8b99929f959eefd22ca68efce236140c8c46803a6969%2fannounce",
+      "fileIdx": 0,
+      "imdbId": "tt1190634",
+      "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
+      ]
+    },
+    {
+      "name": "1080p WEB-DL 🇧🇷",
+      "title": "The Boys S02E03 · Mil Homens Armados Com Espadas · Dual Áudio",
+      "infoHash": "2e8b99929f959eefd22ca68efce236140c8c46803a6969%2fannounce",
+      "fileIdx": 0,
+      "imdbId": "tt1190634",
+      "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
+      ]
     }
   ]
 }

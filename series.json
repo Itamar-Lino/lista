@@ -1500,6 +1500,25 @@
         "tracker:https://tracker.gbitt.info/announce",
         "tracker:udp://tracker.moeking.me:6969/announce"
       ]
+    },
+    {
+      "name": "1080p WEB-DL 🇧🇷",
+      "title": "The Boys S02E08 · O Que Eu Sei · Dual Áudio",
+      "infoHash": "98c5b733b6f2352d7d12fbb7acf9aae32132a648",
+      "fileIdx": 0,
+      "imdbId": "tt1190634",
+      "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
+      ]
     }
   ]
 }

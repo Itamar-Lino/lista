@@ -1424,6 +1424,25 @@
         "tracker:https://tracker.gbitt.info/announce",
         "tracker:udp://tracker.moeking.me:6969/announce"
       ]
+    },
+    {
+      "name": "1080p WEB-DL 🇧🇷",
+      "title": "The Boys S02E04 · Não Há Nada Igual No Mundo · Dual Áudio",
+      "infoHash": "55be5758b40576560b98ba205575f4f1a0c43ad1",
+      "fileIdx": 0,
+      "imdbId": "tt1190634",
+      "sources": [
+        "tracker:udp://movies.zsw.ca:6969/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://tracker.dler.org:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:https://tracker.tamersunion.org:443/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.openbittorrent.com:80/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:https://tracker.gbitt.info/announce",
+        "tracker:udp://tracker.moeking.me:6969/announce"
+      ]
     }
   ]
 }
